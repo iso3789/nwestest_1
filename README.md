@@ -33,4 +33,4 @@ Versionierung des Projektes mit git und Upload des Repositorys `nwestest_1` auf 
 |62 - 50 | genügend |
 |49 - 0| nicht genügend|
 
-### *Bitte hier Ihren Namen eintragen:*
+### *Ivan Dzido:*
