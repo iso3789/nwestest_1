@@ -5,7 +5,7 @@ Programmieren Sie bitte in Python einen einfachen Webserver `serverlein.py` mit 
 1. Nach dem Start mit `./serverlein.py` soll der Server auf allen Interfaces auf Port 8080 empfangsbereit sein.
 2. Ablauf der Kommunikation Client-Server gemäß HTTP:
     - Client (Webbrowser) sendet eine Begrüßung:  
-    `GET / HTTP/1.1\r\nHost: localhost\r\n\r\n`  
+    `GET / HTTP/1.1\r\nHost: localhost\r\n\r\n`  (read der message)
     Diese soll zwar gelesen werden, eine weitere Bearbeitung oder Überprüfung ist aber nicht notwendig. 
     - Server antwortet mit:  
     `HTTP/1.1 200 OK\r\n\r\n<html><body><h1>Hi BULME</h1></body></html>` 
@@ -34,3 +34,7 @@ Versionierung des Projektes mit git und Upload des Repositorys `nwestest_1` auf 
 |49 - 0| nicht genügend|
 
 ### *Ivan Dzido:*
+
+git add 
+git commit
+git push
